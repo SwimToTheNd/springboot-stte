@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-stte'
+include 'thymeleaf'
+include 'websocket'
+include 'bootstrapangular'
+include 'kafkaproducer'
+
